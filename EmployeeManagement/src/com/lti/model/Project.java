@@ -3,6 +3,7 @@ package com.lti.model;
 public class Project {
    int ProjectCode;
    String ProjectName;
+   int ProjectDuration;
 public int getProjectCode() {
 	return ProjectCode;
 }
